@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="15.027104mm"
+   version="1.2"
+   viewBox="0 0 20.550003 42.596498"
+   width="7.2495847mm"
+   x="0in"
+   y="0in"
+   id="svg12"
+   sodipodi:docname="Untitled Sketch 2_схема.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="16.164995"
+     inkscape:cx="14.413862"
+     inkscape:cy="5.9078274"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <g
+     partID="855130860"
+     id="g12"
+     transform="translate(4.7683716e-7,-0.35000032)">
+    <g
+       gorn="0.1"
+       id="schematic">
+      <g
+         id="g14">
+        <line
+           fill="none"
+           gorn="0.1.0"
+           id="connector0pin"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="3.5999999"
+           y2="3.5999999" />
+        <circle
+           cx="17.299999"
+           cy="3.5999999"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle11" />
+      </g>
+      <g
+         id="g13">
+        <line
+           fill="none"
+           gorn="0.1.3"
+           id="connector1pin"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="10.8"
+           y2="10.8" />
+        <circle
+           cx="17.299999"
+           cy="10.8"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle12" />
+      </g>
+      <g
+         id="g15"
+         transform="translate(0,36.096507)">
+        <line
+           fill="none"
+           gorn="0.1.0"
+           id="line14"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="3.5999999"
+           y2="3.5999999" />
+        <circle
+           cx="17.299999"
+           cy="3.5999999"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle14" />
+      </g>
+      <g
+         id="g16"
+         transform="translate(0,28.858647)">
+        <line
+           fill="none"
+           gorn="0.1.0"
+           id="line15"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="3.5999999"
+           y2="3.5999999" />
+        <circle
+           cx="17.299999"
+           cy="3.5999999"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle15" />
+      </g>
+      <g
+         id="g17"
+         transform="translate(0,21.71358)">
+        <line
+           fill="none"
+           gorn="0.1.0"
+           id="line16"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="3.5999999"
+           y2="3.5999999" />
+        <circle
+           cx="17.299999"
+           cy="3.5999999"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle16" />
+      </g>
+      <g
+         id="g18"
+         transform="translate(0,14.382927)">
+        <line
+           fill="none"
+           gorn="0.1.0"
+           id="line17"
+           stroke="#787878"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.699999"
+           x1="0.34999901"
+           x2="13.7"
+           y1="3.5999999"
+           y2="3.5999999" />
+        <circle
+           cx="17.299999"
+           cy="3.5999999"
+           fill="none"
+           r="2.9000001"
+           stroke="#787878"
+           stroke-width="0.699999"
+           id="circle17" />
+      </g>
+    </g>
+  </g>
+</svg>

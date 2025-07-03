@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="0.83086121in"
+   version="1.2"
+   viewBox="0 0 67.757004 59.82195"
+   width="0.94106907in"
+   x="0in"
+   y="0in"
+   id="svg45"
+   sodipodi:docname="MOLEX_4PIN_FEMALE.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs45">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#979797;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="9.2483591"
+     inkscape:cx="39.250206"
+     inkscape:cy="15.083757"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45" />
+  <g
+     partID="855130600"
+     id="g45"
+     transform="translate(0,17.41799)"
+     style="display:inline">
+    <g
+       id="breadboard">
+      <polygon
+         fill="#e6e6e6"
+         points="67.757,6.323 0,6.323 4.92,0 62.837,0 "
+         id="polygon11" />
+      <rect
+         fill="#666666"
+         height="16.599001"
+         width="67.757004"
+         y="6.323"
+         id="rect12"
+         x="0" />
+      <rect
+         enable-background="new    "
+         height="0.57499999"
+         opacity="0.2"
+         width="67.757004"
+         y="6.323"
+         id="rect13"
+         x="0" />
+      <rect
+         enable-background="new    "
+         height="0.57499999"
+         opacity="0.2"
+         width="67.757004"
+         y="22.346001"
+         id="rect14"
+         x="0" />
+      <g
+         id="g44">
+        <rect
+           fill="#999999"
+           height="6.9499998"
+           width="66.533997"
+           x="0.611"
+           y="35.452"
+           id="rect15" />
+        <rect
+           fill="#666666"
+           height="14.666"
+           width="66.533997"
+           x="0.611"
+           y="20.787001"
+           id="rect16" />
+        <rect
+           enable-background="new    "
+           height="0.42300001"
+           opacity="0.2"
+           width="66.533997"
+           x="0.611"
+           y="35.030998"
+           id="rect17" />
+        <g
+           id="g40">
+          <ellipse
+             style="fill:#faf8d8;fill-opacity:1;stroke:#979797;stroke-width:0.72;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="path1"
+             cx="12.650899"
+             cy="30.654104"
+             rx="4.3791571"
+             ry="4.1358709" />
+          <ellipse
+             style="fill:#faf8d8;fill-opacity:1;stroke:#979797;stroke-width:0.72;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="ellipse1"
+             cx="41.926376"
+             cy="30.654104"
+             rx="4.3791571"
+             ry="4.1358709" />
+          <ellipse
+             style="fill:#faf8d8;fill-opacity:1;stroke:#979797;stroke-width:0.72;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="ellipse2"
+             cx="26.680422"
+             cy="30.654104"
+             rx="4.3791571"
+             ry="4.1358709" />
+          <ellipse
+             style="fill:#faf8d8;fill-opacity:1;stroke:#979797;stroke-width:0.72;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="ellipse3"
+             cx="56.118092"
+             cy="30.654104"
+             rx="4.3791571"
+             ry="4.1358709" />
+        </g>
+        <polygon
+           fill="#e6e6e6"
+           points="61.212,6.323 6.545,6.323 0.611,12.076 0.611,32.138 6.545,26.382 61.212,26.382 67.146,32.138 67.146,12.076 "
+           id="polygon40" />
+        <path
+           d="M 67.146,42.404 V 32.138 L 61.212,26.382 H 6.545 L 0.611,32.138 V 42.404 Z M 1.602,32.556 6.947,27.374 h 53.864 l 5.346,5.182 v 8.857 H 1.602 Z"
+           fill="#b3b3b3"
+           id="path41" />
+        <polygon
+           fill="#cccccc"
+           points="67.146,32.138 61.212,26.382 61.212,6.323 67.146,12.076 "
+           id="polygon41" />
+        <polygon
+           fill="#f2f2f2"
+           points="0.611,32.138 6.545,26.382 6.545,6.323 0.611,12.076 "
+           id="polygon42" />
+        <rect
+           enable-background="new    "
+           height="0.26800001"
+           opacity="0.2"
+           width="66.533997"
+           x="0.611"
+           y="42.136002"
+           id="rect42" />
+        <polygon
+           enable-background="new    "
+           fill="#ffffff"
+           opacity="0.3"
+           points="67.146,32.138 61.212,26.382 6.545,26.382 0.611,32.138 0.611,31.56 6.545,25.806 61.212,25.806 67.146,31.56 "
+           id="polygon43" />
+        <polygon
+           enable-background="new    "
+           fill="#ffffff"
+           opacity="0.2"
+           points="67.146,12.654 61.212,6.901 6.545,6.901 0.611,12.654 0.611,12.076 6.545,6.323 61.212,6.323 67.146,12.076 "
+           id="polygon44" />
+        <rect
+           style="fill:#ff1800;fill-opacity:1;stroke-width:0.75"
+           id="rect1"
+           width="5.6692944"
+           height="14.173236"
+           x="9.8125553"
+           y="-13.867319" />
+        <rect
+           style="fill:#010101;fill-opacity:1;stroke-width:0.75"
+           id="rect2"
+           width="5.6692944"
+           height="14.173236"
+           x="23.842077"
+           y="-13.948415" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke-width:0.75"
+           id="rect3"
+           width="5.6692944"
+           height="14.173236"
+           x="38.277077"
+           y="-13.948415" />
+        <rect
+           style="fill:#ffee00;fill-opacity:1;stroke-width:0.75"
+           id="rect4"
+           width="5.6692944"
+           height="14.173236"
+           x="52.387695"
+           y="-13.786223" />
+      </g>
+      <polygon
+         enable-background="new    "
+         fill="#ffffff"
+         opacity="0.4"
+         points="4.725,0.491 63.032,0.491 62.837,0 4.92,0 "
+         id="polygon12" />
+    </g>
+    <g
+       id="g5"
+       style="display:inline;opacity:1"
+       transform="matrix(1,0,0,1.0341216,-2.1385355e-7,-4.7900372)">
+      <circle
+         cx="41.017002"
+         cy="-8.646327"
+         fill="none"
+         id="connector3pin"
+         r="3.5650001" />
+      <circle
+         cx="55.280003"
+         cy="-8.646327"
+         fill="none"
+         id="connector1pin"
+         r="3.5650001" />
+      <circle
+         cx="26.755005"
+         cy="-8.646327"
+         fill="none"
+         id="connector2pin"
+         r="3.5650001" />
+      <circle
+         cx="12.493005"
+         cy="-8.646327"
+         fill="none"
+         id="connector0pin"
+         r="3.5650001" />
+    </g>
+  </g>
+</svg>
