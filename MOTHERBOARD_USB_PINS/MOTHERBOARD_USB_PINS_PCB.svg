@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="0.89300179in"
+   version="1.2"
+   viewBox="0 0 26.206012 64.296003"
+   width="0.3639724in"
+   x="0in"
+   y="0in"
+   id="svg23"
+   sodipodi:docname="MOTHERBOARD_USB_PINS_PCB.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showguides="true"
+     inkscape:zoom="21.319787"
+     inkscape:cx="18.949533"
+     inkscape:cy="85.624683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g35">
+    <sodipodi:guide
+       position="-7.6687645,72.238787"
+       orientation="0,-1"
+       id="guide24"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.4702436,64.378297"
+       orientation="1,0"
+       id="guide25"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.081755,54.129809"
+       orientation="1,0"
+       id="guide26"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     partID="855179650"
+     id="g35"
+     transform="matrix(0,0.29956946,-0.29956946,0,86.943699,-149.36194)"
+     style="fill:none;stroke:#000000;stroke-width:2.83872;stroke-dasharray:none;stroke-opacity:1">
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 505.85156,202.69922 -1.03125,0.43945 -5.76367,6.05469 -0.39258,0.97851 -0.0215,36.46485 2.83789,0.002 0.0215,-35.89844 4.95313,-5.20117 29.84179,0.0547 5.23438,5.76172 2.10156,-1.9082 -5.65429,-6.22461 -1.04883,-0.4668 z"
+       id="path40" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 548.18945,202.69922 -1.02929,0.43945 -5.76563,6.05469 2.05664,1.95898 5.34375,-5.61328 29.8418,0.0547 5.23242,5.76172 2.10156,-1.9082 -5.65429,-6.22461 -1.04688,-0.4668 z"
+       id="path26" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 590.41406,202.69922 -1.03125,0.43945 -5.76367,6.05469 2.05664,1.95898 5.34375,-5.61328 29.8418,0.0547 5.23242,5.76172 2.10156,-1.9082 -5.65429,-6.22461 -1.04883,-0.4668 z"
+       id="path27" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 632.78906,202.69922 -1.02929,0.43945 -5.76563,6.05469 2.05664,1.95898 5.34375,-5.61328 29.8418,0.0547 5.23242,5.76172 2.10156,-1.9082 -5.65429,-6.22461 -1.04688,-0.4668 z"
+       id="path28" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 675.01367,202.69922 -1.03125,0.43945 -5.76367,6.05469 2.05664,1.95898 5.34375,-5.61328 29.8418,0.0547 4.86328,5.35547 -0.0586,35.60937 2.8379,0.004 0.0605,-36.1582 -0.36914,-0.95703 -5.6543,-6.22461 -1.04882,-0.4668 z"
+       id="path29" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 501.48047,246.33984 -2.83789,0.002 0.0215,36.46484 0.39258,0.97852 5.76367,6.05468 1.03125,0.44141 31.07813,-0.0586 1.04883,-0.46485 5.65429,-6.22656 -2.10156,-1.9082 -5.23438,5.76172 -29.84179,0.0566 -4.95313,-5.20313 z"
+       id="path55" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 583.86914,281.62305 -5.23242,5.76172 -29.8418,0.0566 -5.34375,-5.61329 -2.05664,1.95704 5.76563,6.05468 1.02929,0.44141 31.08008,-0.0586 1.04688,-0.46485 5.65429,-6.22656 z"
+       id="path30" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 626.09375,281.62305 -5.23242,5.76172 -29.8418,0.0566 -5.34375,-5.61329 -2.05664,1.95704 5.76367,6.05468 1.03125,0.44141 31.07813,-0.0586 1.04883,-0.46485 5.65429,-6.22656 z"
+       id="path31" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 668.46875,281.62305 -5.23242,5.76172 -29.8418,0.0566 -5.34375,-5.61329 -2.05664,1.95704 5.76563,6.05468 1.02929,0.44141 31.08008,-0.0586 1.04688,-0.46485 5.65429,-6.22656 z"
+       id="path32" />
+    <path
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#000000;stroke:none;stroke-linejoin:bevel;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+       d="m 713.10352,246.41602 -2.8379,0.004 0.0586,35.60938 -4.86328,5.35547 -29.8418,0.0566 -5.34375,-5.61329 -2.05664,1.95704 5.76367,6.05468 1.03125,0.44141 31.07813,-0.0586 1.04882,-0.46485 5.6543,-6.22656 0.36914,-0.95703 z"
+       id="path33" />
+  </g>
+  <g
+     partID="855181720"
+     id="g12"
+     transform="translate(0.29124083,0.1329372)">
+    <g
+       gorn="0.1"
+       id="copper0">
+      <g
+         gorn="0.1.0"
+         id="copper1">
+        <circle
+           cx="19.075703"
+           cy="6.1676941"
+           fill="none"
+           gorn="0.1.0.1"
+           id="connector9pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="18.976202"
+           cy="19.735699"
+           fill="none"
+           gorn="0.1.0.2"
+           id="connector8pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="18.976202"
+           cy="32.507702"
+           fill="none"
+           gorn="0.1.0.3"
+           id="connector7pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="18.976202"
+           cy="44.682709"
+           fill="none"
+           gorn="0.1.0.4"
+           id="connector6pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="18.876701"
+           cy="57.852711"
+           fill="none"
+           gorn="0.1.0.5"
+           id="connector5pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <g
+           id="g24"
+           transform="translate(-0.39800028)">
+          <rect
+             fill="none"
+             gorn="0.1.0.0"
+             height="4.1040001"
+             id="square"
+             r="285"
+             stroke="#ff9400"
+             stroke-width="1.224"
+             width="4.1040001"
+             x="5.2466989"
+             y="4.2151947" />
+          <circle
+             cx="7.3981986"
+             cy="6.2671938"
+             fill="none"
+             gorn="0.1.0.6"
+             id="connector0pin"
+             r="2.052"
+             stroke="#ff9400"
+             stroke-width="1.224" />
+        </g>
+        <circle
+           cx="6.9006982"
+           cy="19.337698"
+           fill="none"
+           gorn="0.1.0.7"
+           id="connector1pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="6.9006982"
+           cy="32.010201"
+           fill="none"
+           gorn="0.1.0.8"
+           id="connector2pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+        <circle
+           cx="6.9006987"
+           cy="44.483707"
+           fill="none"
+           gorn="0.1.0.9"
+           id="connector3pin"
+           r="2.052"
+           stroke="#ff9400"
+           stroke-width="1.224" />
+      </g>
+    </g>
+  </g>
+</svg>
