@@ -2,15 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="15.504688mm"
+   height="43.631634mm"
+   viewBox="0 0 15.504688 43.631633"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="ARGB_5V_3PIN_FEMALE.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="16.267265"
-     inkscape:cx="264.21159"
-     inkscape:cy="258.03354"
+     inkscape:zoom="2.8756734"
+     inkscape:cx="40.338378"
+     inkscape:cy="51.640079"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -38,7 +39,8 @@
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="matrix(-1,0,0,1,78.433083,-38.456095)">
     <path
        id="rect1"
        style="stroke-width:0.264583"
@@ -100,5 +102,29 @@
        id="path4"
        style="fill:#f4df0d;stroke-width:0.234624"
        d="m 76.594444,81.081698 a 0.75000007,0.75000008 0 0 1 -0.75,0.75 0.75000007,0.75000008 0 0 1 -0.75,-0.75 0.75000007,0.75000008 0 0 1 0.75,-0.75 0.75000007,0.75000008 0 0 1 0.75,0.75 z" />
+    <g
+       id="g10"
+       inkscape:label="Connection"
+       transform="translate(-0.04510997,0.23862048)">
+      <circle
+         style="opacity:0.01;fill:#d82f2f;fill-opacity:1;stroke:#979797;stroke-width:0.254;stroke-linejoin:bevel;stroke-opacity:0"
+         id="path9"
+         cx="66.490372"
+         cy="39.344475"
+         r="1"
+         inkscape:highlight-color="#ec7171" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path9"
+         id="use9"
+         transform="translate(4.326429)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path9"
+         id="use1"
+         transform="translate(8.360092)" />
+    </g>
   </g>
 </svg>

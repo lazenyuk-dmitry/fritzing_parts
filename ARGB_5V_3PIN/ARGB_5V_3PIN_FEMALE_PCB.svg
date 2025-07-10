@@ -2,14 +2,14 @@
 <!-- Created with Fritzing (https://fritzing.org/) -->
 
 <svg
-   height="0.76710826in"
+   height="0.36851883in"
    version="1.2"
-   viewBox="0 0 15.825795 55.231835"
-   width="0.21980272in"
+   viewBox="0 0 13.752937 26.533375"
+   width="0.19101302in"
    x="0in"
    y="0in"
    id="svg15"
-   sodipodi:docname="Untitled Sketch 2_ПП.svg"
+   sodipodi:docname="ARGB_5V_3PIN_MALE_PCB.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      inkscape:zoom="13.225297"
-     inkscape:cx="10.585774"
-     inkscape:cy="29.753585"
+     inkscape:cx="10.812612"
+     inkscape:cy="25.972952"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -38,7 +38,7 @@
      inkscape:current-layer="svg15"
      showguides="true">
     <sodipodi:guide
-       position="3.4592807,33.398648"
+       position="3.6137511,4.8543649"
        orientation="1,0"
        id="guide1"
        inkscape:locked="false" />
@@ -46,10 +46,11 @@
   <g
      partID="855130961"
      id="g15"
-     transform="matrix(0.97257872,0,0,2.595163,-1.050385,-2.8027762)">
+     transform="matrix(0.99517762,0,0,1.2437154,-1.1041862,-1.3112782)">
     <g
        gorn="0.1"
-       id="silkscreen">
+       id="silkscreen"
+       transform="matrix(0.8492862,0,0,1.0024129,0.19230766,-0.02828263)">
       <line
          gorn="0.1.0"
          id="vertical-left"
@@ -86,81 +87,41 @@
          x2="1.4400001"
          y1="1.4400001"
          y2="1.4400001" />
-      <line
-         gorn="0.1.4"
-         id="mid-vertical"
-         stroke="#ffffff"
-         stroke-width="0.36"
-         x1="14.112"
-         x2="14.112"
-         y1="22.0026"
-         y2="1.4400001" />
     </g>
   </g>
   <g
      partID="855130962"
      id="g14"
-     transform="translate(-1.2463903,22.075946)">
+     transform="translate(-1.09192,1.1484165)">
     <g
        gorn="0.2"
        id="copper1">
       <g
-         gorn="0.2.0"
-         id="g13">
-        <g
-           id="g16"
-           transform="translate(-0.05670952,10.831518)">
-          <rect
-             fill="none"
-             gorn="0.2.0.0"
-             height="4.3200002"
-             id="rect12"
-             stroke="#ffbf00"
-             stroke-width="1.44"
-             width="4.3200002"
-             x="5.5025811"
-             y="7.2092676" />
-          <circle
-             cx="7.662581"
-             cy="9.3692684"
-             fill="none"
-             gorn="0.2.0.1"
-             id="circle12"
-             r="2.1600001"
-             stroke="#ffbf00"
-             stroke-width="1.44" />
-        </g>
-        <circle
-           cx="7.6058717"
-           cy="27.286579"
+         id="g16"
+         transform="translate(-0.05670956,10.831518)">
+        <rect
            fill="none"
-           gorn="0.2.0.2"
-           id="circle13"
+           gorn="0.2.0.0"
+           height="4.3200002"
+           id="rect12"
+           stroke="#ffbf00"
+           stroke-width="1.44"
+           width="4.3200002"
+           x="5.5025811"
+           y="7.2092676" />
+        <circle
+           cx="7.662581"
+           cy="9.3692684"
+           fill="none"
+           gorn="0.2.0.1"
+           id="circle12"
            r="2.1600001"
            stroke="#ffbf00"
            stroke-width="1.44" />
       </g>
       <circle
          cx="7.6058717"
-         cy="5.3967047"
-         fill="none"
-         gorn="0.2.0.2"
-         id="circle4"
-         r="2.1600001"
-         stroke="#ffbf00"
-         stroke-width="1.44" />
-      <circle
-         cx="7.6058717"
-         cy="-14.962013"
-         fill="none"
-         gorn="0.2.0.2"
-         id="circle1"
-         r="2.1600001"
-         stroke="#ffbf00"
-         stroke-width="1.44" />
-      <circle
-         cx="7.6058717"
-         cy="-7.5897756"
+         cy="12.031718"
          fill="none"
          gorn="0.2.0.2"
          id="circle2"
@@ -169,7 +130,7 @@
          stroke-width="1.44" />
       <circle
          cx="7.662581"
-         cy="12.712233"
+         cy="4.1490951"
          fill="none"
          gorn="0.2.0.2"
          id="circle3"

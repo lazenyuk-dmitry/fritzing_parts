@@ -2,15 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="15.5mm"
+   height="47.887077mm"
+   viewBox="0 0 15.5 47.887077"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="ARGB_5V_3PIN_MALE.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="8.1336326"
-     inkscape:cx="281.17818"
-     inkscape:cy="277.30537"
+     inkscape:cx="43.277096"
+     inkscape:cy="4.8563787"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -33,11 +34,21 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+  </defs>
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-62.933083,-38.217475)">
     <path
        id="rect1"
        style="stroke-width:0.264583"
@@ -59,8 +70,8 @@
     <path
        id="rect3-8-1"
        style="stroke-width:0.264583"
-       transform="rotate(159.5874)"
-       d="m -48.974541,-70.166679 h 1 v 10 h -1 z" />
+       d="m -48.974541,-70.166679 h 1 v 10 h -1 z"
+       transform="rotate(159.5874)" />
     <path
        id="rect4"
        style="fill:#dbc929;stroke-width:0.264583"
@@ -99,5 +110,29 @@
        id="rect2"
        style="stroke-width:0.264583"
        d="m 69.352974,48.69672 h 3 v 15.906945 h -3 z" />
+  </g>
+  <g
+     id="g10"
+     inkscape:label="Connection"
+     transform="translate(-62.933083,-38.217475)">
+    <circle
+       style="opacity:0.01;fill:#d82f2f;fill-opacity:1;stroke:#979797;stroke-width:0.254;stroke-linejoin:bevel;stroke-opacity:0"
+       id="path9"
+       cx="66.490372"
+       cy="39.344475"
+       r="1"
+       inkscape:highlight-color="#ec7171" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path9"
+       id="use9"
+       transform="translate(4.326429)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path9"
+       id="use1"
+       transform="translate(8.360092)" />
   </g>
 </svg>
