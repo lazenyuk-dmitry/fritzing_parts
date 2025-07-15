@@ -8,5 +8,6 @@ I made some of the parts I needed for fritzing.
 
 - [ARGB 5V 3-pin connection (male and female)](/ARGB_5V_3PIN)
 - [ARGB PC fan](/ARGB_PC_FAN)
+- [Micro USB plug](/MICRO_USB_PLUG)
 - [PC MOLEX 4-pin (male and female)](/MOLEX_4PIN)
 - [PC motherboard UCB connector](/MOTHERBOARD_USB_PINS)

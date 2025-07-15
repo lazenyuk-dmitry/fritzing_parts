@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+
+<svg
+   height="2.38696in"
+   version="1.2"
+   viewBox="0 0 170.078 171.861"
+   width="2.3622in"
+   x="0in"
+   y="0in"
+   id="svg32"
+   sodipodi:docname="MICRO_USB_PLUG_MALE_scheme.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="3.5217389"
+     inkscape:cx="113.2963"
+     inkscape:cy="114.57408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="schematic" />
+  <g
+     partID="855206290"
+     id="g32">
+    <g
+       gorn="0.5"
+       id="schematic">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g16">
+        <g
+           id="g15">
+          <g
+             id="g14">
+            <g
+               id="g13">
+              <g
+                 id="g12">
+                <rect
+                   fill="none"
+                   gorn="0.5.0.0.0.0.0"
+                   height="106.299"
+                   id="rect10403"
+                   stroke="#000000"
+                   stroke-dasharray="none"
+                   stroke-opacity="1"
+                   stroke-width="1.60357"
+                   style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;"
+                   width="106.299"
+                   x="-127.559"
+                   y="42.5197" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path
+         d="m21.2598,85.0394,21.2598,0"
+         fill="none"
+         gorn="0.5.1"
+         id="path10449"
+         stroke="#000000"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         stroke-width="2.4"
+         style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m21.2598,63.7795,21.2598,0"
+         fill="none"
+         gorn="0.5.2"
+         id="path10453"
+         stroke="#000000"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         stroke-width="2.4"
+         style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m42.5197,42.5197,-21.2598,0"
+         fill="none"
+         gorn="0.5.3"
+         id="path10461"
+         stroke="#000000"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         stroke-width="2.4"
+         style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         transform="matrix(1, 0, 0, 1, -1.41732, 1.71406e-06)"
+         id="g21">
+        <g
+           id="g20">
+          <g
+             id="g19">
+            <g
+               id="g18">
+              <g
+                 id="g17">
+                <g
+                   fill="#000000"
+                   fill-opacity="1"
+                   font-size="8"
+                   gorn="0.5.4.0.0.0.0"
+                   id="text10504"
+                   stroke="none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+                   xml:space="preserve">
+         <text
+   gorn="0.5.4.0.0.0.0.0"
+   id="tspan10506"
+   x="46.771702"
+   y="45.354301">GND</text>
+        </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(1, 0, 0, 1, -1.41732, -0.0283423)"
+         id="g26">
+        <g
+           id="g25">
+          <g
+             id="g24">
+            <g
+               id="g23">
+              <g
+                 id="g22">
+                <g
+                   fill="#000000"
+                   fill-opacity="1"
+                   font-size="8"
+                   gorn="0.5.5.0.0.0.0"
+                   id="text10508"
+                   stroke="none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+                   xml:space="preserve">
+         <text
+   gorn="0.5.5.0.0.0.0.0"
+   id="tspan10510"
+   x="46.771702"
+   y="66.642502">D+</text>
+        </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         font-size="8px"
+         gorn="0.5.6"
+         id="tspan10514"
+         stroke="none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start"
+         x="45.354301"
+         y="87.874001">D-</text>
+      <rect
+         fill="none"
+         gorn="0.5.7"
+         height="5.66929"
+         id="connector1pin"
+         stroke="none"
+         width="5.66929"
+         x="18.4252"
+         y="39.685" />
+      <rect
+         fill="none"
+         gorn="0.5.8"
+         height="5.66929"
+         id="connector2pin"
+         stroke="none"
+         width="5.66929"
+         x="18.4252"
+         y="60.9449" />
+      <rect
+         fill="none"
+         gorn="0.5.9"
+         height="5.66929"
+         id="connector3pin"
+         stroke="none"
+         width="5.66929"
+         x="18.4252"
+         y="82.2048" />
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         font-size="14.4px"
+         gorn="0.5.10"
+         id="tspan4621"
+         stroke="none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+         x="106.299"
+         y="72.283501"><tspan
+           sodipodi:role="line"
+           id="tspan32"
+           x="106.299"
+           y="72.283501">USB</tspan><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           x="106.299"
+           y="90.283501" /></text>
+      <g
+         fill="#000000"
+         fill-opacity="1"
+         font-size="14.4"
+         gorn="0.5.11"
+         id="text4046"
+         stroke="none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">
+        <text
+           font-size="11.2"
+           gorn="0.5.11.0"
+           id="tspan12352"
+           x="106.299"
+           y="86.4567">CABLE</text>
+      </g>
+      <path
+         d="m42.5197,106.299,-21.2598,0"
+         fill="none"
+         gorn="0.5.12"
+         id="path12328"
+         stroke="#000000"
+         stroke-dasharray="none"
+         stroke-opacity="1"
+         stroke-width="2.4"
+         style="color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <g
+         transform="matrix(1, 0, 0, 1, -1.41732, 63.7796)"
+         id="g31">
+        <g
+           id="g30">
+          <g
+             id="g29">
+            <g
+               id="g28">
+              <g
+                 id="g27">
+                <g
+                   fill="#000000"
+                   fill-opacity="1"
+                   font-size="8"
+                   gorn="0.5.13.0.0.0.0"
+                   id="g12330"
+                   stroke="none"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+                   xml:space="preserve">
+         <text
+   gorn="0.5.13.0.0.0.0.0"
+   id="text12332"
+   x="46.771702"
+   y="45.354301">+5V</text>
+        </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         fill="none"
+         gorn="0.5.14"
+         height="5.66929"
+         id="connector4pin"
+         stroke="none"
+         width="5.66929"
+         x="18.4252"
+         y="103.465" />
+    </g>
+  </g>
+</svg>
